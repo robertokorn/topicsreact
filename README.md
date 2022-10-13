@@ -47,3 +47,13 @@ Open http://localhost:3000 to view it in your browser.
 To Run Test Suite:  
 
 `npm test` 
+
+##
+Future Improvements
+
+Code Structuring:
+  Create a SearchBar component
+ 
+Additional Features:
+  Add a loading spinner on every search of term
+  Manage Errors with UX Design
