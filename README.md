@@ -13,9 +13,9 @@ And then click the blue botton to search the results.
 
 #### Example:   
 
-[ PRETEND SCREEN SHOT IS HERE ]
+<img width="255" alt="IMG01" src="https://user-images.githubusercontent.com/5749839/195664412-28df4b3d-38a5-46a8-8580-8f49af73a741.PNG">
 
-[ PRETEND OTHER SCREEN SHOT IS HERE ]
+<img width="685" alt="IMG02" src="https://user-images.githubusercontent.com/5749839/195664453-5f46005f-4578-4ddb-b429-e9ee308ec0e8.PNG">
 
 ## Installation and Setup Instructions
 
